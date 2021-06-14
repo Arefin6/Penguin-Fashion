@@ -32,3 +32,28 @@
     font-size: 18px;
     margin: 20px 0 ;
 }
+.w-jacket h2{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.card{
+    border: none;
+    border-radius:2% 2% 2% 2%;
+    box-shadow: 5px 5px 5px #ddd ;
+}
+.card-img-top{
+    height: 350px;
+    background-color:#f1f1f1;
+    padding: 7%;
+}
+.card-title{
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+.price{
+    font-size: 32px;
+    color: #fabe4c;
+    margin-top: 20px;
+    font-weight: bold;
+}
