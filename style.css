@@ -57,3 +57,14 @@
     margin-top: 20px;
     font-weight: bold;
 }
+.met{
+   margin-top: 7rem; 
+}
+.benifits{
+    margin:2rem 0;
+    box-shadow: 5px 5px 5px #ddd;
+    padding: 0rem 1rem;
+}
+.benifits img{
+  margin-right: 4rem;
+}
